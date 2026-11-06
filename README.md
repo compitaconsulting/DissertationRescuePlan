@@ -55,12 +55,11 @@ The workbook contains no macros and no external connections. Everything you ente
 
 *The Dissertation Rescue Plan: Your No-BS Guide to Getting Unstuck, Getting Support, and Getting Done* gives doctoral students seven fixes for the most common reasons dissertations stall, with notes for qualitative, quantitative, and mixed methods studies.
 
-- Book: [LINK]
-- Free 30-minute Dissertation Rescue Call: [LINK]
-- Compita Consulting: [LINK]
+- Free 30-minute Dissertation Rescue Call: https://bookings.compitaconsulting.com/#/customer/mitch
+- Compita Consulting: https://compitaconsulting.com/
 
 ## License
 
-[LICENSE: choose one, e.g., Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)]
+[LICENSE for the resources provided here: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)]
 
 The toolkit offers general educational guidance. Your institution's requirements and your committee's direction take precedence.
